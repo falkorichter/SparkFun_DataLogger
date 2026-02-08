@@ -22,13 +22,13 @@ icon: fontawesome/solid/scroll
 
 --8<-- "./docs/prepare_your_microsd_card.md"
 
-# Configuration
+# Operation Overview
 
---8<-- "./docs/configuration.md"
+--8<-- "./docs/system-operation.md"
 
 # Example - Connecting to a WiFi Network
 
---8<-- "./docs/wifi_network.md"
+--8<-- "./docs/net-wifi-setup.md"
 
 # Example - Adding a Timestamp to Data
 
@@ -40,7 +40,7 @@ icon: fontawesome/solid/scroll
 
 # Example - Updating Firmware
 
---8<-- "./docs/updating_firmware.md"
+--8<-- "./docs/adv-system-update.md"
 
 # Example - MQTT
 
